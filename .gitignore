@@ -1,7 +1,6 @@
 # Devenv
 .devenv*
 devenv.local.nix
-days/data
 .envrc
 
 # direnv
